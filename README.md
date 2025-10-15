@@ -1,20 +1,16 @@
 
-** Report Generator **
+# Report Generator 
 ## Graph workflow
 ![Alt text](images/flow.png)
 
 ## App UI
-
-![Alt text](images/app_ui.png)
+<img src="images/app_ui.png" style="width:50%; height:50%; object-fit:contain;"/>
 
 ## Integration with Langsmith
-|<img src="images/langsmith.jpg" style="width:50%; height:50%; object-fit:contain;"/>|
-
+<img src="images/langsmith.jpg" style="width:50%; height:50%; object-fit:contain;"/>
 
 ## Integraiton with Pushover
-<img src="images/pushover_notification.png" style="width:35%; height:35%; object-fit:contain;"/> |
-
----
+<img src="images/pushover_notification.png" style="width:35%; height:35%; object-fit:contain;"/>
 
 ## 🧩 Tech Stack
 
