@@ -1,13 +1,18 @@
 
-**Graph visualization**
-- The graph image in this README (`images/flow.png`) is generated from `graph.get_graph()`:
-  - ASCII (quick): `print(graph.get_graph().draw_ascii())`
-  - Mermaid PNG (simple):  
-    ```python
-    png = graph.get_graph().draw_mermaid_png()
-    open("docs/flow.png","wb").write(png)
-    ```
-  - Graphviz PNG (if you prefer): `graph.get_graph().draw_png("docs/flow.png")`
+** Report Generator **
+## Graph workflow
+
+![Alt text](images/flow.png)
+
+## App UI
+
+![Alt text](images/app_ui.png)
+
+<div style="display:flex; gap:10px;">
+  <img src="images/langsmith.jpg" width="45%">
+  <img src="images/pushover_notification.png" width="45%">
+</div>
+
 
 ---
 
