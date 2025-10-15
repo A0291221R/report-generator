@@ -1,18 +1,18 @@
 
 ** Report Generator **
 ## Graph workflow
-
 ![Alt text](images/flow.png)
 
 ## App UI
 
 ![Alt text](images/app_ui.png)
 
-<div style="display:flex; gap:10px;">
-  <img src="images/langsmith.jpg" width="45%">
-  <img src="images/pushover_notification.png" width="45%">
-</div>
+## Integration with Langsmith
+|<img src="images/langsmith.jpg" style="width:50%; height:50%; object-fit:contain;"/>|
 
+
+## Integraiton with Pushover
+<img src="images/pushover_notification.png" style="width:35%; height:35%; object-fit:contain;"/> |
 
 ---
 
