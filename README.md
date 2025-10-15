@@ -28,6 +28,8 @@
 ## 🔧 Setup
 ### 1) Install dependencies
 ```bash
+uv init --python 3.12
+uv venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 uv add -r requirements.txt
 ```
