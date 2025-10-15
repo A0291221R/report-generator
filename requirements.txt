@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-openai
+
+pydantic>=2
+pyyaml
+jinja2
+reportlab
+requests
+langchain-tavily
+pushover
+tavily-python
+langgraph-cli[inmem]
+gradio
